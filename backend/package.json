@@ -1,5 +1,18 @@
 {
-  "dependencies": {
-    "express": "^5.2.1"
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "COMP229 Bacend code example",
+  "keywords": [
+    "COMP220",
+    "Express",
+    "MongoDB",
+    "Node"
+  ],
+  "license": "MIT",
+  "author": "Natnael G",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
